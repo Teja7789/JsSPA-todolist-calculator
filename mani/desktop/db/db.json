@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "task": "Mani.j",
+      "state": false,
+      "id": 2
+    },
+    {
+      "task": "Mani",
+      "state": false,
+      "id": 3
+    },
+    {
+      "task": "Hari",
+      "state": false,
+      "id": 4
+    },
+    {
+      "task": "Ravi.Y",
+      "state": false,
+      "id": 5
+    },
+    {
+      "task": "Mani.L",
+      "state": false,
+      "id": 6
+    },
+    {
+      "task": "Mani.Y",
+      "state": false,
+      "id": 7
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
